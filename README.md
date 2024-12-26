@@ -66,7 +66,7 @@ Currently, Sign2Text can only translate ASL Alphabet gestures.
 
 This repository contains documentation and demonstrations of the Sign2Text application. To request access to the APK for evaluation or research purposes, please contact:
 
-**Email:** maaman@ucsc.com
+**Email:** maaman@ucsc.edu
 
 Please include:
 - Your name and organization
