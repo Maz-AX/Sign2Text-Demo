@@ -1,4 +1,6 @@
 # Sign2Text - ASL Translation App
+![Sign2Text]([http://full/path/to/img.jpg](https://raw.githubusercontent.com/Maz-AX/Sign2Text-Demo/refs/heads/main/docs/screenshots/ic_launcher.png) "Sign2Text")
+
 
 ## Overview
 Sign2Text is an open-source American Sign Language (ASL) translation application that uses machine learning to convert sign language gestures into text in real-time. Built with Flutter and powered by PyTorch, it provides an accessible way for users to translate ASL signs through their mobile device's camera.
@@ -39,7 +41,7 @@ Currently, Sign2Text can only translate ASL Alphabet gestures.
 
 This repository contains documentation and demonstrations of the Sign2Text application. To request access to the APK for evaluation or research purposes, please contact:
 
-**Email:** contact@yeterlyai.com
+**Email:** maaman@ucsc.com
 
 Please include:
 - Your name and organization
