@@ -6,6 +6,15 @@ Sign2Text is an open-source American Sign Language (ASL) translation application
 
 Currently, Sign2Text can only translate ASL Alphabet gestures.
 
+## Developers:
+**Developed by the team below, sponsored by Yeterly Software, YeterlyAI division through the University of California, Santa Cruz.**
+
+* Aman, Maz - Product Owner
+* Amudhasagaran, Rahul - Machine Learning Engineer
+* Nguy, Megan - Frontend Engineer
+* Tiwari, Akshat - Machine Learning Engineer
+* Tran, Dylan - Machine Learning Engineer
+
 ## Features
 - Real-time ASL gesture recognition
 - Image capture and processing
@@ -21,6 +30,23 @@ Currently, Sign2Text can only translate ASL Alphabet gestures.
 - **Authentication**: Firebase
 - **Cloud Infrastructure**: Google Cloud Run
 - **CI/CD**: GitHub Actions
+
+## Tech Components:
+1. **Flutter Mobile Application**
+   - Cross-platform mobile and Web client (Android, Browser)
+   - Real-time ASL translation
+   - User authentication and data collection features
+   - Responsive design with dark/light theme support
+
+2. **Authentication & Data Collection Server (Flask)**
+   - User management and authentication
+   - Training data collection and storage
+   - Firebase integration for data persistence
+
+3. **ML Inference Server (FastAPI)**
+   - Real-time ASL gesture recognition
+   - Optimized for low-latency predictions
+   - Scalable containerized deployment
 
 ## Architecture
 ```
