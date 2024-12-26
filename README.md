@@ -34,7 +34,7 @@ Currently, Sign2Text can only translate ASL Alphabet gestures.
 ```
 
 ## Screenshots
-[<img alt="Sign2Text" width="200px" height="200px" src="https://raw.githubusercontent.com/Maz-AX/Sign2Text-Demo/refs/heads/main/docs/screenshots/screenshot.jpg" />](https://raw.githubusercontent.com/Maz-AX/Sign2Text-Demo/refs/heads/main/docs/screenshots/screenshot.jpg)
+[<img alt="Sign2Text" width="548px" height="281px" src="https://raw.githubusercontent.com/Maz-AX/Sign2Text-Demo/refs/heads/main/docs/screenshots/screenshot.jpg" />](https://raw.githubusercontent.com/Maz-AX/Sign2Text-Demo/refs/heads/main/docs/screenshots/screenshot.jpg)
 
 ## Demo
 
